@@ -1,3 +1,3 @@
 # node-hello-world
 
-Charlie is REALLY Cool!
+Charlie is Cool!
